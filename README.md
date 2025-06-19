@@ -1,8 +1,14 @@
 <h1 align="left">Front-end Developer</h1>
 
+<h3 align="left">🔥   My Stats :</h3>
+
+<div align="left">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jonasmouradev&hide_border=true&exclude_days=Sun%2CSat&hide_longest_streak=true" alt="GitHub Streak" /></a>
+</div>
+
 ###
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=React.js;TypeScript;Zustand;JavaScript;React+Testing+Library" alt="Typing SVG" /></a>
 
 ###
 
@@ -26,9 +32,4 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
-
-###
-
-<br clear="both">
-
-###
+<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-escape.jpg" />
