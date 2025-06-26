@@ -1,7 +1,7 @@
 <h1 align="left">Front-end Developer</h1>
 
 <h3 align="left">🔥   My Stats :</h3>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 <div align="left">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jonasmouradev&hide_border=true&exclude_days=Sun%2CSat&hide_longest_streak=false" alt="GitHub Streak" /></a>
