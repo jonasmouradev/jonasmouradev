@@ -1,9 +1,10 @@
 <h1 align="left">Front-end Developer</h1>
 
 <h3 align="left">🔥   My Stats :</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jonasmouradev&hide_border=true&exclude_days=Sun%2CSat&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jonasmouradev&hide_border=true&exclude_days=Sun%2CSat&hide_longest_streak=false" alt="GitHub Streak" /></a>
 </div>
 
 ###
@@ -28,8 +29,14 @@
 
 ###
 
+## 💼
+<p align="left">
+ JavaScript | TypeScript | React.js | Tailwind | StyledComponents | Zustand | React Testing Library | Vitest | Cypress | Axios | React Query
+</p>
+
+###
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasmouradev/)
 [![instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/meetmoura/)
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-escape.jpg" />
+[![e-mail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:jonasmouradev@gmail.com?subject=Contato")
